@@ -1,114 +1,117 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" />
+  <h1>hinata | Web Developer 🌱</h1>
+  <p>「ユーザーにとって使いやすい」を大切にする Webアプリ開発</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+hinata+%F0%9F%91%8B;Rails+Developer+%F0%9F%9A%80;Web+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-## 🌟 **About Me**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=rails" width="100" height="100" alt="Rails" />
-<br><strong>Rails</strong>
-</td>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm hinata!**
-🚀 **Ruby on Rails Developer** passionate about web development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful **web applications**  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinata7777&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinata7777&custom_title=hinata's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🛠️ **Tech Stack**
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🔧 **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🎨 **Design**
-<img src="https://skillicons.dev/icons?i=figma" />
-
-### 💻 **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,html,css" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 📚 **Currently Learning**
-- Ruby  
-- Ruby on Rails  
-- HTML / CSS  
-
----
-
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hinata7777&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinata7777&theme=github"
+    width="95%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hinata7777&theme=github"
+    width="47%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hinata7777&theme=github"
+    width="47%"
+  />
 </div>
 
 ---
 
-## 🌐 **Connect with Me**
+# About me 🌱
+### 「なぜこの機能が必要か」を考えながら開発することを大切にしています。
+
+### **2018/04-2024/03：** 国立大学・大学院にて「感性工学」を専攻
+- 「官能評価による衣服の着心地の改善」というテーマで修士論文を執筆
+- 着用・シミュレーション実験を通じて、「仮説・実施・改善」のサイクルを経験
+
+### **2024/04-2025/08：** メーカー職（製造管理）
+- 複数部署と連携し、計画変更やトラブル対応を経験
+- 状況整理・優先順位付け・調整力を培う
+
+### **2025/04-：** プログラミングスクール RUNTEQ にて学習
+- Ruby on Rails を中心に Webアプリケーション開発を体系的に学習
+- 個人開発を通して、設計・実装・改善のサイクルを実践
+- 「作って終わり」ではなく、運用・改善を前提とした実装を意識
+
+---
+
+# Learning / Skills 🛠
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
+
+## Tools
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,notion)](https://skillicons.dev)
+
+## Infra / other
+- Docker（開発環境構築）
+- PostgreSQL / MySQL
+- AWS / Render（デプロイ）
+- GitHub Actions（CI/CD 基礎）
+
+---
+
+# My App 🚀
+
+## FES READY（音楽フェス準備支援Webアプリ）
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/1b0c1c70-e903-4c4f-8816-2091c4388a73"
+    width="80%"
+  />
+</p>
+
+**使用技術：**  
+Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind CSS
+
+## サービス概要
+音楽フェス参加者向けに、  
+**「事前準備の不安を減らす」** ことを目的とした Webアプリです。
+
+持ち物管理や事前チェックを通して、
+「何を準備すればいいかわからない」という課題を解消します。
+
+## 工夫したポイント
+- 実際の利用シーンを想定した画面設計
+- 機能追加・改善を前提としたDB設計
+- 保守性を意識したRailsの責務分離
+
+**アプリURL：** https://fesready.com  
+**GitHub URL：** https://github.com/hinata7777/fes_ready
+
+---
+
+# Development Policy 🧭
+- なぜこの実装にするのかを言語化する
+- ユーザー視点・運用視点を意識する
+- 小さく作って改善する
+
+---
+
+# Coming soon・・・ 🚧
+新しい個人開発を企画・検討中です。
+
+- Webアプリケーション
+- 日常の「ちょっと不便」を解消するプロダクトを構想中
+
+---
 
 <div align="center">
   <a href="https://github.com/hinata7777">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/hinanata72">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-  **⭐ From [hinata](https://github.com/hinata7777) with ❤️**
-  
-  *"Ruby on Rails makes everything beautiful! 🦋"*
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
