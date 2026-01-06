@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" />
   <h1>hinata | Web Developer 🌱</h1>
-  <p>「ユーザーにとって使いやすい」を大切にする Webアプリ開発</p>
+  <p>ユーザーにとって「直感的に使いやすい」ことを大切にして開発しています！</p>
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinata7777&theme=github"
@@ -93,13 +93,21 @@ Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind CSS
 - 小さく作って改善する
 
 ---
+# My Article ✍️
+### Qiita
+- [【個人開発】音楽フェス準備をスマートにするWebアプリ「FES READY」を本リリースしました！](https://qiita.com/hinanata72/items/f803ce00ad542bd3d042)
+- [RailsのパーシャルとViewComponent、どう使い分ける？ 「FES READY」の実例で整理してみた](https://qiita.com/hinanata72/items/1a4e9cef5c452cb00f2c)
 
-# Coming soon・・・ 🚧
-新しい個人開発を企画・検討中です。
-
-- Webアプリケーション
-- 日常の「ちょっと不便」を解消するプロダクトを構想中
-
+### Note
+- [自己紹介（RUNTEQ68期A）](https://note.com/humble_badger207/n/n4010784d6e06)
+- [RUNTEQ　1ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/n2ce37868909d)
+- [RUNTEQ　2ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/n9479edc276a5)
+- [RUNTEQ　3ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/n376c988b6e3c)
+- [RUNTEQ　4ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/na819cfcad17e)
+- [RUNTEQ　5ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/na1d85729a9ca)
+- [RUNTEQ　6ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/nfa465928acbb)
+- [RUNTEQ　7ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/nf9e4c00cbddf)
+- [RUNTEQ　8ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/n4ec2a126498a)
 ---
 
 <div align="center">
