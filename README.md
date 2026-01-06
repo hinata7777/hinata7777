@@ -51,7 +51,7 @@
 ## Infra / other
 - Docker（開発環境構築）
 - PostgreSQL / MySQL
-- AWS / Render（デプロイ）
+- Fly.io / Render / Neon（デプロイ）
 - GitHub Actions（CI/CD 基礎）
 
 ---
