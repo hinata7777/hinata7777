@@ -96,7 +96,8 @@ Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind CSS
 # My Article ✍️
 ### Qiita
 - [【個人開発】音楽フェス準備をスマートにするWebアプリ「FES READY」を本リリースしました！](https://qiita.com/hinanata72/items/f803ce00ad542bd3d042)
-- [RailsのパーシャルとViewComponent、どう使い分ける？ 「FES READY」の実例で整理してみた](https://qiita.com/hinanata72/items/1a4e9cef5c452cb00f2c)
+- [【Rails】パーシャルとViewComponent、どう使い分ける？ 「FES READY」の実例で整理してみた](https://qiita.com/hinanata72/items/1a4e9cef5c452cb00f2c)
+- [【Rails】form_with と params って結局なんやねん](https://qiita.com/hinanata72/items/11b4b4be3a5572f3a102)
 
 ### Note
 - [自己紹介（RUNTEQ68期A）](https://note.com/humble_badger207/n/n4010784d6e06)
