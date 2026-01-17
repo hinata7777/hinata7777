@@ -109,6 +109,7 @@ Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind CSS
 - [RUNTEQ　6ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/nfa465928acbb)
 - [RUNTEQ　7ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/nf9e4c00cbddf)
 - [RUNTEQ　8ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/n4ec2a126498a)
+- [RUNTEQ　9ヶ月目の振り返り・感想](https://note.com/humble_badger207/n/nbbfffc292f67)
 ---
 
 <div align="center">
