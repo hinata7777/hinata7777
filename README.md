@@ -68,7 +68,7 @@
 </p>
 
 **使用技術：**  
-Ruby / Ruby on Rails / PostgreSQL / Docker / Tailwind CSS
+Ruby / Ruby on Rails / PostgreSQL(Neon) / Docker / Tailwind CSS
 
 ## サービス概要
 音楽フェス参加者向けに、  
