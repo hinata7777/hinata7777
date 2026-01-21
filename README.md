@@ -78,9 +78,9 @@ Ruby / Ruby on Rails / PostgreSQL(Neon) / Docker / Tailwind CSS
 「何を準備すればいいかわからない」という課題を解消します。
 
 ## 工夫したポイント
-- 実際の利用シーンを想定した画面設計
+- ユーザーが「直感的に」操作できるUI・UX設計
 - 機能追加・改善を前提としたDB設計
-- 保守性を意識したRailsの責務分離
+- 保守性・可読性を意識したソースコードの責務分離
 
 **アプリURL：** https://fesready.com  
 **GitHub URL：** https://github.com/hinata7777/fes_ready
